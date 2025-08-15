@@ -55,7 +55,7 @@ expense-tracker/
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/Shareef-deen21/expense_tracker_app)
+   git clone (https://github.com/Shareef-deen21/expense_tracker_app)
    ```
 
 2. **Navigate to the project directory**:
